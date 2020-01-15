@@ -1,0 +1,14 @@
+.vs/
+Toy.Robot.Simulator/bin/
+Toy.Robot.Simulator/obj/
+Toy.Robot.Simulator.Tests/bin/
+Toy.Robot.Simulator.Tests/obj/
+bin
+obj
+*.csproj.user
+.localhistory/
+yarn.lock
+TestResults/
+*.user
+*.pubxml
+.git/
